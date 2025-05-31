@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm Nidhi Tiwari, a passionate and seasoned Softwa
 
 **About Me**
 
-I have been immersed in the world of software development for the past 3.5 years, where I have honed my skills as a Full Stack Developer. My expertise extends across a diverse range of technologies, including:
+I have been immersed in the world of software development for the past 4.5 years, where I have honed my skills as a Full Stack Developer. My expertise extends across a diverse range of technologies, including:
 
 Languages:Python, C
 Web Technologies:HTML, JavaScript, CSS, ReactJS
